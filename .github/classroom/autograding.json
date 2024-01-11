@@ -19,16 +19,6 @@
       "comparison": "exact",
       "timeout": 10,
       "points": 3
-    },
-    {
-      "name": "zad3",
-      "setup": "cmake ./; make",
-      "run": "./zad3",
-      "input": "",
-      "output": "",
-      "comparison": "exact",
-      "timeout": 10,
-      "points": 0
     }
   ]
 }
